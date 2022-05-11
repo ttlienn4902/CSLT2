@@ -1,0 +1,9 @@
+C:\Users\nguye\OneDrive\cslt2\ketnoicsdl\obj\Debug\ketnoicsdl.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\ketnoicsdl\obj\Debug\ketnoicsdl.Form1.resources
+C:\Users\nguye\OneDrive\cslt2\ketnoicsdl\obj\Debug\ketnoicsdl.Properties.Resources.resources
+C:\Users\nguye\OneDrive\cslt2\ketnoicsdl\obj\Debug\ketnoicsdl.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\cslt2\ketnoicsdl\obj\Debug\ketnoicsdl.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\cslt2\ketnoicsdl\bin\Debug\ketnoicsdl.exe
+C:\Users\nguye\OneDrive\cslt2\ketnoicsdl\bin\Debug\ketnoicsdl.pdb
+C:\Users\nguye\OneDrive\cslt2\ketnoicsdl\obj\Debug\ketnoicsdl.exe
+C:\Users\nguye\OneDrive\cslt2\ketnoicsdl\obj\Debug\ketnoicsdl.pdb
